@@ -1,0 +1,10 @@
+{% if ans is defined and ans|length >0 %} 
+this jinj2 statement if used to deal with numpy arrays 
+checking if ans is defined and length greater than zero 
+
+remember to save the standardScalar model
+
+rememeber to convert the values from html to float and dont use variable names
+that can conflict with functions (open) 
+
+
